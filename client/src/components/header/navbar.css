@@ -1,0 +1,14 @@
+.search-btn{
+    background-color: #febd69;
+    border: 2px solid #febd69;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.account-avatar{
+    height: 30px;
+    width: 40px;
+}

@@ -1,0 +1,13 @@
+.signin-btn{
+    background-color: #e7be70;
+    border: 1px solid black;
+}
+
+input:focus{
+    border-color: #febd69 !important; 
+}
+
+.create-btn{
+    background-color: #b5b5b8 !important;
+    border: 1px solid black;
+}
